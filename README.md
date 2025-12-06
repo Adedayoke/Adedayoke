@@ -9,11 +9,15 @@ To bridge ideas and technology by building impactful, user-centric software solu
 ```
 const skills = {
       languages: ['Javascript', 'Typescript'],
-      frameworks: ['React', 'Next.js', 'React Native']
+      frameworks: ['React', 'Next.js', 'React Native', 'Express.js', 'Nest js']
 };
 
  ```
 ## 🚀 Key Projects
+### EmkemTech
+A Learning Management System designed for multiple roles, Super Admin, Instructor and Student. With RBAC and descriptive dashboards. 
+*__Live Url__* : [View Live](https://emkemtech.com)
+
 ### Jechres
 An e-commerce application designed for clothes for man and women.
 * __Github__ : [View Project](https://github.com/Adedayoke)
@@ -32,7 +36,7 @@ An e-commerce application designed for clothes for man and women.
 * Stay at the forefront of technology through continuous learning and upskilling
 
 ## 📬 Connect With Me
-* __LinkedIn__ : [in/habeeb-oke](www.linkedin.com/in/habeeb-oke-8569a7248)
+* __LinkedIn__ : [in/habeeb-oke](www.linkedin.com/in/habeeb-oke)
 * __Email__ : [adedayoke](adedayoke2006@gmail.com)
 * __Portfolio__ : _coming soon_
 
