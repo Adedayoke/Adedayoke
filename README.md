@@ -1,5 +1,5 @@
 ## Oke Habeeb
-> Software Engineer | GDGoC core team member
+> Software Engineer | Ex-GDGoC core team member
 
 ## 🎯 Mission
 To bridge ideas and technology by building impactful, user-centric software solutions that are efficient, scalable, and grounded in strong development principles
@@ -8,19 +8,20 @@ To bridge ideas and technology by building impactful, user-centric software solu
 
 ```
 const skills = {
-      languages: ['Javascript', 'Typescript'],
-      frameworks: ['React', 'Next.js', 'React Native', 'Express.js', 'Nest js']
+      languages: ['Javascript', 'Typescript', Java],
+      frameworks: ['React', 'Next.js', 'React Native', 'Express.js', 'Nest.js']
 };
 
  ```
 ## 🚀 Key Projects
-### EmkemTech
-A Learning Management System designed for multiple roles, Super Admin, Instructor and Student. With RBAC and descriptive dashboards. 
-*__Live Url__* : [View Live](https://emkemtech.com)
+### Viigo (Mobile app)
+A React Native mobile app that allows gym owners to register their gyms and users to book sessions, make payments, cancel bookings, and get booking verification.
 
-### Jechres
-An e-commerce application designed for clothes for man and women.
-* __Github__ : [View Project](https://github.com/Adedayoke)
+
+### TechFacilitators Mentorship
+A Learning Management System designed for multiple roles, Super Admin, Instructor and Student. With RBAC and descriptive dashboards. 
+*__Live Url__* : [View Live](https://mentorship.techfacilitators.com)
+
 
 ## 🎖️ Leadership & Community Impact
 ### Leadership & Community Engagement at Google Developer Groups on Campus (GDGoC)
