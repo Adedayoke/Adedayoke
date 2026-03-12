@@ -8,7 +8,7 @@ To bridge ideas and technology by building impactful, user-centric software solu
 
 ```
 const skills = {
-      languages: ['Javascript', 'Typescript', Java],
+      languages: ['Javascript', 'Typescript', 'Java'],
       frameworks: ['React', 'Next.js', 'React Native', 'Express.js', 'Nest.js']
 };
 
