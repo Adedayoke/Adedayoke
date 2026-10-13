@@ -1,5 +1,5 @@
 <h1 align="center">Habeeb Oke</h1>
-<h3 align="center">Full-Stack Engineer &nbsp;·&nbsp; Web & Mobile Products &nbsp;·&nbsp; Moving toward ML/AI Engineering</h3>
+<h3 align="center">Software Engineer &nbsp;·&nbsp; Web & Mobile Products &nbsp;·&nbsp; Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/habeeb-oke">LinkedIn</a> &nbsp;·&nbsp;
@@ -12,11 +12,9 @@
 
 ## About Me
 
-I build and ship reliable web and mobile products — on time, to standard, without cutting corners on quality.
+I build and ship reliable web and mobile products, with a focus on quality, maintainability, and thoughtful engineering.
 
-Full-stack across React, Next.js, React Native, and backend systems. I care about how things are built, not just that they work. From client work to startup systems, I've learned to move fast without being sloppy.
-
-Currently moving toward ML/AI engineering — the intersection of mathematics and systems is where the most interesting engineering problems are.
+I care about how things are built, not just that they work. Full-stack across React, Next.js, React Native, and backend systems.
 
 ---
 
@@ -26,7 +24,8 @@ Currently moving toward ML/AI engineering — the intersection of mathematics an
 **Frontend:** React, Next.js, React Native, Tailwind CSS, Framer Motion  
 **Backend:** Node.js, Express.js, NestJS, Hono.js  
 **Databases:** PostgreSQL, MongoDB, Redis, MySQL, Firebase  
-**Infrastructure:** Docker, AWS S3, RabbitMQ, BullMQ, Vercel
+**Tools & Infrastructure:** Docker, AWS S3, Vercel  
+**Messaging & Queues:** RabbitMQ, BullMQ
 
 ---
 
@@ -34,39 +33,28 @@ Currently moving toward ML/AI engineering — the intersection of mathematics an
 
 ### ResearchLoop
 Autonomous paper-to-code agent that extracts algorithms from academic PDFs and generates verified Python/NumPy implementations using a self-correcting WASM sandbox.  
-`React 19` `TypeScript` `Gemini` `Pyodide/WASM` &nbsp;·&nbsp; [Live Demo](https://research-loop-taupe.vercel.app)
+`React 19` `TypeScript` `Gemini` `Pyodide/WASM` &nbsp;·&nbsp; [Repository](https://github.com/Adedayoke/ResearchLoop) &nbsp;·&nbsp; [Live Demo](https://research-loop-taupe.vercel.app)
 
 ### StudyPay
 Blockchain-based campus payment PWA that cuts transaction fees from $15–45 to under $1 with 30-second transfers.  
-`Next.js` `TypeScript` `Solana Pay` `PWA` &nbsp;·&nbsp; [Live Demo](https://studypay-sable.vercel.app)
-
-### Plant Disease Detection System
-Deep learning web app using YOLOv8 achieving 96% accuracy and 98.2% mAP — outperforming VGG16, Inception V3, and MobileNet baselines.  
-`Python` `YOLOv8` `FastAPI` `React.js`
+`Next.js` `TypeScript` `Solana Pay` `PWA` &nbsp;·&nbsp; [Repository](https://github.com/Adedayoke/StudyPay) &nbsp;·&nbsp; [Live Demo](https://studypay-sable.vercel.app)
 
 ### Viigo — Gym Booking Marketplace
 Two-sided React Native marketplace with GPS gym discovery, Razorpay payments, and an owner management suite.  
-`React Native` `Expo` `TypeScript` `Razorpay`
-
----
-
-## Achievements
-
-- Built at **Google DeepMind Gemini Hackathon** — ResearchLoop
-- Built at **Solana Students Africa Hackathon** — StudyPay
+`React Native` `Expo` `TypeScript` `Razorpay` &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=in.viigo.app)
 
 ---
 
 ## Currently
 
-- Building **Bloom** — AI-powered vendor sales agent for WhatsApp & Telegram
+- Building **[Bloom](https://trybloomapp.com)** — AI-powered vendor sales agent for WhatsApp & Telegram (live)
 - Sharpening DSA and System Design fundamentals
 - Moving toward ML/AI Engineering
 - Open to full-time SWE roles
 
 ---
 
-## Connect
+## Achievements
 
-- [LinkedIn](https://linkedin.com/in/habeeb-oke)
-- [adedayoke2006@gmail.com](mailto:adedayoke2006@gmail.com)
+- **Google DeepMind Gemini Hackathon** — Built ResearchLoop
+- **Solana Students Africa Hackathon** — Built StudyPay
