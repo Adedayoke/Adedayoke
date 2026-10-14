@@ -31,6 +31,10 @@ I care about how things are built, not just that they work. Full-stack across Re
 
 ## Featured Projects
 
+### Viigo — Gym Booking Marketplace &nbsp;·&nbsp; *Professional work*
+Built the entire mobile app, live on Google Play: a two-sided React Native marketplace with GPS gym discovery, Razorpay payments, and an owner management suite.  
+`React Native` `Expo` `TypeScript` `Razorpay` &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=in.viigo.app)
+
 ### ResearchLoop
 Autonomous paper-to-code agent that extracts algorithms from academic PDFs and generates verified Python/NumPy implementations using a self-correcting WASM sandbox.  
 `React 19` `TypeScript` `Gemini` `Pyodide/WASM` &nbsp;·&nbsp; [Repository](https://github.com/Adedayoke/ResearchLoop) &nbsp;·&nbsp; [Live Demo](https://research-loop-taupe.vercel.app)
@@ -38,10 +42,6 @@ Autonomous paper-to-code agent that extracts algorithms from academic PDFs and g
 ### StudyPay
 Blockchain-based campus payment PWA that cuts transaction fees from $15–45 to under $1 with 30-second transfers.  
 `Next.js` `TypeScript` `Solana Pay` `PWA` &nbsp;·&nbsp; [Repository](https://github.com/Adedayoke/StudyPay) &nbsp;·&nbsp; [Live Demo](https://studypay-sable.vercel.app)
-
-### Viigo — Gym Booking Marketplace
-Two-sided React Native marketplace with GPS gym discovery, Razorpay payments, and an owner management suite.  
-`React Native` `Expo` `TypeScript` `Razorpay` &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=in.viigo.app)
 
 ---
 
